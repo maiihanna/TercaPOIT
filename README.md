@@ -10,3 +10,10 @@ Mateus - Simulação
 Sofia - Supervisão
 Gabriel - Timer
 Guilherme - Saida
+
+Ordem de mensagens e comandos no Git:
+Primeiramente salve o arquivo no File>Save All
+Escreva: git add --All
+Escreva: git commit -m "sua mudança ai"
+Escreva: git push
+E está salvo
