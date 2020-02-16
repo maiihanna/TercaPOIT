@@ -27,4 +27,9 @@ Escreva: git commit -m "sua mudança ai"
 
 Escreva: git push
 
-E está salvo
+E este é o processo de salvamento
+
+Comportamento do código:
+
+O LED irá se acender e se manterá aceso por 1,5 segundos. Ao fim dos 1, segundos o LED irá apagar e se manterá apagado por 1,5 segundos.
+Esse ciclo se repetirá até que a placa seja reiniciada ou que a energia pare de ser fornecida.
